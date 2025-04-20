@@ -1,4 +1,5 @@
 # rocBLAS
+rocBLAS for RX6550m 
 
 rocBLAS is the [ROCm](https://rocm.docs.amd.com/en/latest) Basic Linear Algebra Subprograms (BLAS)
 library. rocBLAS is implemented in the
